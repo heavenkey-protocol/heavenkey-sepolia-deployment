@@ -1,0 +1,36 @@
+NOTICE – Heavenkey Source License v1.0
+
+Concept Date: February 2025
+Public Release: October 8, 2025
+License Transition Date: October 8, 2029
+
+SPDX-License-Identifier: Heavenkey-Source-License-1.0
+
+Copyright © 2025 Francesco Ventura – Heavenkey.xyz
+All rights reserved under the terms of the Heavenkey Source License v1.0 (Based on BSL 1.1).
+
+This project is licensed under a Business Source-like license that restricts commercial use,
+redistribution, and derivative works for four (4) years from the date of public release.
+
+After the transition date, the Heavenkey codebase will be automatically re-licensed under the
+GNU Affero General Public License v3.0 (AGPL-3.0). From that moment, the project becomes open
+source, allowing free use, modification, and redistribution under AGPL-3.0 terms.
+
+License Timeline:
+- Concept Date: February 2025
+- Public Release: October 8, 2025
+- Automatic License Change: October 8, 2029 → GNU AGPL v3.0
+
+For complete details, see:
+- LICENSE_HEAVENKEY_BSL.txt
+- README_LICENSE_HEAVENKEY.txt
+
+This NOTICE file must be included in all copies or distributions of this software.
+
+NO WARRANTY:
+This software is provided “as is”, without warranty of any kind, express or implied,
+including but not limited to the warranties of merchantability, fitness for a particular
+purpose, and noninfringement.
+
+Full AGPL license text available at:
+https://www.gnu.org/licenses/agpl-3.0.html

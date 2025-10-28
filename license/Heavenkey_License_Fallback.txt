@@ -1,0 +1,76 @@
+───────────────────────────────────────────────
+Heavenkey – Ethical Fallback Licensing Proof
+───────────────────────────────────────────────
+
+Concept Date: February 2025
+Public Release: October 8, 2025
+License Transition: October 8, 2029 → AGPL v3.0
+
+Author: Francesco Ventura – Heavenkey.eth
+Heavenkey.xyz
+
+───────────────────────────────────────────────
+📜 Summary
+───────────────────────────────────────────────
+
+The “Heavenkey Ethical Fallback Mechanism” defines an automated,
+trustless redistribution of unclaimed inheritance funds to
+verified public-good wallets (nonprofits, DAOs, or impact protocols)
+instead of letting them remain locked or lost.
+
+This principle introduces a new category in Web3:
+“Trustless Succession with Social Impact”.
+
+Purpose of this document:
+To link the Heavenkey Source License v1.0 (BSL-inspired)
+to the original ethical fallback concept, protecting both
+the code and the philosophy under a unified authorship.
+
+───────────────────────────────────────────────
+📂 Files Included in This Proof
+───────────────────────────────────────────────
+- LICENSE_HEAVENKEY_BSL.txt
+- NOTICE_HEAVENKEY.txt
+- README_LICENSE_HEAVENKEY.txt
+- docs/Governance & Licensing Note.txt
+- This document (Heavenkey_License_Fallback.txt)
+
+───────────────────────────────────────────────
+💠 Ethical Statement – Heavenkey Vision
+───────────────────────────────────────────────
+
+Non solo possiamo far tornare indietro ciò che andrebbe perduto,  
+ma possiamo dare continuità alla volontà e ai sogni  
+di coloro che non potranno più realizzarli.
+
+Heavenkey non è solo eredità digitale:  
+è una promessa di continuità, un ponte tra intenzione e futuro,  
+tra la volontà umana e il codice immutabile.
+
+───────────────────────────────────────────────
+💠 English Translation
+───────────────────────────────────────────────
+
+Not only can we bring back what would otherwise be lost,  
+but we can give continuity to the will and dreams  
+of those who can no longer fulfill them.
+
+Heavenkey is not merely digital inheritance:  
+it is a promise of continuity — a bridge between intention and the future,  
+between human will and immutable code.
+
+───────────────────────────────────────────────
+📜 Notes
+───────────────────────────────────────────────
+
+This document certifies the authorship and intent behind the
+Heavenkey Ethical Fallback Mechanism as part of the Heavenkey protocol,
+and associates it permanently with the Heavenkey Source License v1.0.
+
+Any derivative implementation or adaptation of this concept must
+explicitly reference its original formulation within Heavenkey (2025)
+and its author, Francesco Ventura (Heavenkey.eth).
+
+───────────────────────────────────────────────
+End of Document
+───────────────────────────────────────────────

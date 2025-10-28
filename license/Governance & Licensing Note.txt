@@ -1,0 +1,90 @@
+Heavenkey – Governance & Licensing Note
+Last updated: October 2025
+
+Concept Date: February 2025
+Public Release: October 8, 2025
+License Transition: October 8, 2029 → AGPL v3.0
+
+───────────────────────────────────────────────────────────────
+🎯 Why Licensing Matters for Heavenkey
+───────────────────────────────────────────────────────────────
+
+Heavenkey is not only a protocol for digital inheritance — it also introduces a unique ethical fallback mechanism:  
+if heirs fail to claim, funds are redirected to public goods, not lost.
+
+This mechanism creates a new category in Web3: **“trustless succession with social impact.”**  
+Because of its delicacy and uniqueness, we must protect it from:
+
+- Opportunistic forks removing the fallback and keeping all funds.  
+- Closed-source competitors replicating our work without sharing improvements.  
+- Short-term profit projects undermining Heavenkey’s social mission.
+
+───────────────────────────────────────────────────────────────
+🔐 The Licensing Model
+───────────────────────────────────────────────────────────────
+
+Heavenkey adopts a **progressive open-source model** inspired by the Business Source License (BSL):
+
+**2025–2029 → Heavenkey Source License v1.0 (BSL-inspired)**  
+✅ Code is public, auditable, and testable.  
+🚫 No commercial use, no production forks.  
+🧪 Free for research, audits, and community testing.
+
+**From October 8, 2029 → Automatic Re-license under AGPL v3.0**  
+✅ Free and open-source forever.  
+✅ Any commercial use requires source disclosure (copyleft).  
+🌍 Ensures Heavenkey becomes a true digital public good.
+
+This model mirrors successful precedents like **Uniswap**, protecting early innovation while guaranteeing future openness.
+
+───────────────────────────────────────────────────────────────
+🏛️ Governance Transition – The Guardian Guild DAO
+───────────────────────────────────────────────────────────────
+
+Licensing is one pillar of the broader Heavenkey governance roadmap.
+
+**V1–V2 (2025–2027)**  
+- Protocol under founder control with a non-commercial license.  
+- Focus on security, adoption, and ethical fallback integrity.
+
+**V3 (2027+) → Guardian Guild DAO**  
+Governance is transferred to a decentralized structure.  
+DAO responsibilities include:  
+- Managing the list of approved fallback wallets (nonprofits, DAOs, public goods).  
+- Deciding upgrades to ConfigFacet and TreasuryFacet.  
+- Overseeing bug bounty programs and audits.
+
+**Post-2029**  
+- Code fully open under AGPL v3.0.  
+- Guardian Guild DAO acts as custodian of the fallback ethic, ensuring no forks undermine its social purpose.
+
+───────────────────────────────────────────────────────────────
+🌍 Why This Matters
+───────────────────────────────────────────────────────────────
+
+**For Grant Providers (Ethereum Foundation, Chainlink, etc.)**  
+Your support will not vanish into a closed product. Heavenkey is designed to evolve into a public good standard,  
+with ethical fallback redistribution guaranteed.
+
+**For Investors & Partners**  
+The initial license protects early work and moat. After four years, Heavenkey becomes an open standard —  
+but under DAO governance, preserving its integrity and uniqueness.
+
+**For the Community**  
+The fallback is not just technical — it is **ethical infrastructure**, transforming dormant value into collective benefit.
+
+───────────────────────────────────────────────────────────────
+📌 Conclusion
+───────────────────────────────────────────────────────────────
+
+Heavenkey’s governance and licensing are designed to balance:
+
+- Protection of a unique innovation: the **ethical fallback**.  
+- Openness to audits, community review, and eventual public ownership.  
+- Accountability through the **Guardian Guild DAO**.
+
+By combining a delayed open-source license (BSL → AGPL) with DAO-managed governance,  
+Heavenkey ensures that its most delicate innovation — the **ethical fallback** —  
+is preserved, protected, and ultimately shared as a **digital public good**.
+
+───────────────────────────────────────────────────────────────
