@@ -118,7 +118,7 @@ Full details are available in `ImpactStatement.md`.
 
 ## Demo
 
-🎥 **Watch the MVP Demo** (`media/heavenkey-demo.mp4`)
+🎥 **Watch the MVP Demo** (`doc/docs/media/demo.mp4`)
 
 The demo shows:
 - creation of an inheritance plan  
