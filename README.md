@@ -1,25 +1,31 @@
-# 💠 Heavenkey – Ethereum Digital Continuity Protocol
+## 💠 Heavenkey – Ethereum Digital Continuity Protocol
 
 ## Overview
 
-**Heavenkey** is a modular inheritance and recovery protocol built exclusively on Ethereum.  
-It automates secure digital succession and ethical fund redistribution through privacy-preserving smart contracts.
+**Heavenkey** is a modular inheritance and digital continuity protocol built on Ethereum.  
+It automates secure succession and **ethical value redistribution** through privacy-preserving smart contracts.
 
 > “Heavenkey ensures that your digital assets never die with you —  
 > they continue to serve a purpose aligned with your will and values.”
 
-Heavenkey introduces a **Proof-of-Activity** inheritance system based on the **Diamond Standard (EIP-2535)**.  
-The protocol allows users to:
+Built upon the **Diamond Standard (EIP-2535)**, Heavenkey introduces a **Proof-of-Activity** system  
+that detects inactivity and executes pre-defined legacy actions autonomously.  
 
-- Define heirs and fallback recipients in advance  
-- Detect inactivity on-chain through automated “ping” signals  
-- Trigger inheritance and fund redistribution without intermediaries  
-- Protect privacy using encrypted heir data (IPFS + XMTP)  
-- Ensure autonomy through gas reserves and automated execution  
+With Heavenkey, users can:
 
-Heavenkey combines **security, automation, and ethics** to prevent digital asset loss and create continuity within the Ethereum ecosystem.
+- Define heirs and choose an **ethical fallback recipient** in advance  
+- Detect inactivity through on-chain “ping” signals  
+- Trigger inheritance and value redistribution without intermediaries  
+- Protect privacy via encrypted heir bundles (IPFS + XMTP)  
+- Guarantee autonomy through a dedicated gas reserve for automated execution  
 
----
+When heirs remain inactive, Heavenkey’s **EFM™ – Ethical Fallback Mechanism**  
+redeploys dormant assets toward verified public-goods initiatives,  
+ensuring that value never disappears — it evolves into continuity.
+
+Heavenkey merges **security, automation, and ethics**  
+to prevent digital asset loss and preserve coherence within the Ethereum ecosystem.
+
 
 ## Network
 
