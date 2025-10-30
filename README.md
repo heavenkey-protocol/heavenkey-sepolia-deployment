@@ -107,8 +107,6 @@ Full details are available in `ImpactStatement.md`.
 | File | Description |
 |------|-------------|
 | `whitepaper_EN.pdf` | Technical & philosophical overview |
-| `Heavenkey_ExecutiveSummary.pdf` | One-page summary for grants |
-| `Heavenkey_GrantRequest.pdf` | EF Grant Application (Q4 2025) |
 | `Heavenkey_Test_Report.md` | Test coverage & validation |
 | `SECURITY.md` | Security principles & audit plan |
 | `ROADMAP.md` | Development milestones |
