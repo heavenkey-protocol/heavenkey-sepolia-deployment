@@ -156,6 +156,14 @@ Founder & Lead Architect – Heavenkey Protocol
 ✉️ Email: [info@francescoventura.it](mailto:info@francescoventura.it)  
 
 
+### 🪞 Mirror Publication  
+**Heavenkey EFM™ — The Architecture of Continuity**  
+Published on [Mirror.xyz](https://mirror.xyz/heavenkey.eth/XDlXIyC8LHHNJ1c8oeuN8BD-NHClNXGZSRhWzsiWV-c)  
+Signed by `heavenkey.eth`  
+Date: October 30, 2025  
+Content Digest: XDlXIyC8LHHNJ1c8oeuN8BD-NHClNXGZSRhWzsiWV-c  
+Network: Optimism (Ethereum Layer-2)
+
 
 ## 🧾 Authorship & Licensing Proofs
 
